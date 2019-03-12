@@ -1,0 +1,129 @@
+{
+    "companyInfo": {
+      "companyName": "Jones, Murphy and Stark",
+      "companyMotto": "B2B morph convergence",
+      "companyEst": "2017-12-08T21:59:38.923Z"
+    },
+    "employees": [
+      {
+        "id": "9b9b81a1-1f2d-4fd5-adb8-6af3ad911a43",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thewillbeard/128.jpg",
+        "firstName": "William",
+        "lastName": "Leffler",
+        "jobTitle": "Direct Intranet Strategist",
+        "age": 41,
+        "bio": "Est error aperiam qui ab minus quia dignissimos. Nostrum deleniti quo enim ipsam veniam et qui. Reiciendis consequatur et consectetur quidem ipsa molestiae. Nemo occaecati suscipit aliquam. Aut rem iure minima quam et magnam. Voluptatibus commodi repellendus perferendis.",
+        "dateJoined": "2017-02-03T11:24:36.952Z"
+      },
+      {
+        "id": "e1de01d9-63b1-4576-b7e5-8a2f28122b74",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joeymurdah/128.jpg",
+        "firstName": "Lola",
+        "lastName": "Quigley",
+        "jobTitle": "Human Usability Specialist",
+        "age": 17,
+        "bio": "Non tempora eum repellendus maxime ex corporis in blanditiis. Voluptatem ut pariatur omnis aliquam nesciunt. Nostrum pariatur velit quibusdam aliquid explicabo provident optio sequi. Fuga suscipit dolorem velit et. Repellendus qui impedit cum error officia. Aliquam saepe eum et dolores nihil unde.",
+        "dateJoined": "2012-03-08T19:12:24.693Z"
+      },
+      {
+        "id": "35b80836-66b5-4f88-8bdb-bd84d9945328",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rude/128.jpg",
+        "firstName": "Patrick",
+        "lastName": "Goldner",
+        "jobTitle": "Product Identity Executive",
+        "age": 57,
+        "bio": "Nesciunt reprehenderit et atque. Provident doloribus ipsa. Illo quos officia sed. Sed et eaque repellat aliquam velit. Tenetur et maiores ut est est explicabo laudantium magni saepe. Dicta assumenda cumque qui doloribus ipsam veritatis non odio.",
+        "dateJoined": "2016-08-20T11:49:45.933Z"
+      },
+      {
+        "id": "57fbda17-8b2c-4196-b90a-5c4c17656800",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jedbridges/128.jpg",
+        "firstName": "Georgia",
+        "lastName": "Klein",
+        "jobTitle": "Dynamic Tactics Executive",
+        "age": 36,
+        "bio": "Praesentium cumque non modi quae dolor autem. Et ipsa dolores veritatis. Accusantium minima architecto autem dignissimos nostrum qui et laborum id. Deleniti sit qui est laboriosam reprehenderit modi placeat sed odit. Fugiat laborum qui officiis quos. Blanditiis et est fugiat eius nam.",
+        "dateJoined": "2018-09-11T19:27:34.003Z"
+      },
+      {
+        "id": "3903f80b-9b8d-4221-a77e-394691774305",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg",
+        "firstName": "Henry",
+        "lastName": "O'neill",
+        "jobTitle": "Legacy Functionality Officer",
+        "age": 26,
+        "bio": "Omnis et quas corporis et hic nulla minus. Minima molestiae quibusdam incidunt consequatur. Sit perferendis reiciendis non vero eveniet magni aut. Deleniti et doloremque beatae voluptatem est voluptatum. Est libero porro natus recusandae nulla voluptatem corporis et.",
+        "dateJoined": "2014-08-24T21:27:14.220Z"
+      },
+      {
+        "id": "d4f85a39-714c-42ed-a35f-3c8b4398d720",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tobysaxon/128.jpg",
+        "firstName": "Oscar",
+        "lastName": "Borer",
+        "jobTitle": "Dynamic Security Specialist",
+        "age": 46,
+        "bio": "Nisi ipsum omnis sint rem aliquid et. Commodi enim quasi praesentium blanditiis distinctio ducimus. Reprehenderit consequuntur odit. Et ad incidunt numquam placeat qui veniam. Quae ut perferendis velit.",
+        "dateJoined": "2014-11-26T14:05:17.503Z"
+      },
+      {
+        "id": "0dd67875-acb8-403c-afd8-99b1ce2b42f6",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kostaspt/128.jpg",
+        "firstName": "Claudia",
+        "lastName": "Tromp",
+        "jobTitle": "Corporate Branding Technician",
+        "age": 20,
+        "bio": "Fugit sed asperiores sit quaerat. Unde provident sed aut facilis numquam animi maiores. Sunt necessitatibus dicta enim dignissimos voluptate aut omnis id. Et dolorem quisquam.",
+        "dateJoined": "2017-07-03T23:03:48.316Z"
+      },
+      {
+        "id": "7d0dd286-954d-4cac-b58c-c75fbabee4f8",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jacksonlatka/128.jpg",
+        "firstName": "Chloe",
+        "lastName": "West",
+        "jobTitle": "National Communications Strategist",
+        "age": 45,
+        "bio": "Inventore dicta et aut sit nesciunt. Impedit facilis sequi eveniet adipisci eos nihil. Consectetur in et veritatis nemo sunt officia. Sed et eaque repellat aliquam velit. Tenetur et maiores ut est est explicabo laudantium magni saepe. Dicta assumenda cumque qui doloribus ipsam veritatis non odio.",
+        "dateJoined": "2015-10-22T11:53:25.933Z"
+      },
+      {
+        "id": "ed6f7dd9-dd7b-4d56-93a6-665791ae22cd",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hasslunsford/128.jpg",
+        "firstName": "John",
+        "lastName": "Hayes",
+        "jobTitle": "Direct Assurance Analyst",
+        "age": 47,
+        "bio": "Veritatis enim aut aspernatur amet iste rerum enim. Fugit doloremque ea illo doloribus ipsam dolores. Corrupti aut aut. Voluptatem voluptas ratione. Explicabo aut velit eveniet ut eum quis earum et commodi.",
+        "dateJoined": "2016-11-11T20:06:05.924Z"
+      },
+      {
+        "id": "62732f45-97f6-4d96-8c92-90277ada4a59",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/uberschizo/128.jpg",
+        "firstName": "Darcy",
+        "lastName": "Bauch",
+        "jobTitle": "Customer Implementation Assistant",
+        "age": 67,
+        "bio": "At consequatur laboriosam est voluptas ab et. Est quia nam aut. Nam nulla et. Est qui quibusdam autem in ea a voluptas omnis. Sed et eaque repellat aliquam velit. Tenetur et maiores ut est est explicabo laudantium magni saepe. Dicta assumenda cumque qui doloribus ipsam veritatis non odio.",
+        "dateJoined": "2018-09-01T13:26:12.699Z"
+      },
+      {
+        "id": "1d3e06ee-5778-425e-9f85-f3df239fd375",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/posterjob/128.jpg",
+        "firstName": "Lilly",
+        "lastName": "Hessel",
+        "jobTitle": "International Interactions Coordinator",
+        "age": 61,
+        "bio": "Enim sint odio dolorem dicta. Earum et ipsam. Numquam facilis eos dolor repellendus nisi voluptate et temporibus iste. Voluptatem rem labore laboriosam voluptates. Voluptate aut nesciunt quasi sed sit laborum minus sapiente.",
+        "dateJoined": "2018-05-24T15:49:16.612Z"
+      },
+      {
+        "id": "5078e860-1a65-4982-baae-c55314144524",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ripplemdk/128.jpg",
+        "firstName": "Mia",
+        "lastName": "Abbott",
+        "jobTitle": "Investor Applications Producer",
+        "age": 51,
+        "bio": "Rerum fugit quia sed sit exercitationem voluptatum consequuntur. Unde aut eaque repudiandae possimus aut iusto aut explicabo. Commodi molestiae recusandae qui. Esse vel excepturi dolore aspernatur quod iusto. Est quae consequatur consequatur molestias vel repellendus nisi velit cumque. Quos vel illum laboriosam debitis est reprehenderit nihil in voluptas.",
+        "dateJoined": "2017-09-19T20:32:29.598Z"
+      }
+    ]
+  }

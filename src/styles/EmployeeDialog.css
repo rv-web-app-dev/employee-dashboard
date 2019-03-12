@@ -1,0 +1,110 @@
+.employeeDetail {
+    margin: 30px 30%;
+    padding: 30px 10px;
+    box-shadow: 0 4px 8px 0 #00000033;
+    transition: 0.3s;
+    border: 1px solid #afacacbe;
+    border-radius: 5px;
+    position: relative;
+    top: 100px;
+    background-color: ivory;
+    min-height: 400px;
+}
+
+.left-section {
+    width: 33%;
+    float: left;
+}
+
+.left-section img {
+    width: 180px;
+    padding-top: 0px;
+}
+
+.left-section div {
+    padding: 5px 0px;
+}
+
+.left-section div>label {
+    font-weight: 500;
+    color: #000000c2;
+}
+
+.right-section{
+    float: right;
+    width: 60%;
+    padding: 2px 16px;
+}
+
+.right-section > h4 {
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+#favDialog {
+    background: transparent;
+    border: none;
+}
+
+#closeModal{
+    float: right;
+    position: relative;
+    top: -100px;
+}
+
+#closeModal>svg{
+    width: 40px;
+    height: 100px;
+}
+
+@media only screen and (min-width: 1200px){
+
+    .employeeDetail {
+        margin: 30px 15%;
+        height: fit-content;
+    }
+
+    #closeModal{
+        float: right;
+        position: relative;
+        top: -80px;
+
+        left: 700px;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+   
+    .left-section img {
+         width: 130px;
+    }
+
+    .employeeDetail {
+        margin: 30px 5%;
+        height: fit-content;
+    }
+
+    .right-section{
+        float: right;
+        width: 50%;
+        padding: 2px 2px;
+    }
+
+    #closeModal{
+        float: right;
+        position: relative;
+        top: -100px;
+        right: -150px
+    }
+}
+
+
+
+@media only screen and (min-width: 600px){
+    #closeModal{
+        float: right;
+        position: relative;
+        top: -100px;
+        right: -400px
+    }
+}

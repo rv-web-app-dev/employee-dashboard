@@ -1,0 +1,19 @@
+.company-header {
+    border-bottom: 2px solid #5c5b5b;
+    margin-bottom: 10px;
+    background-color: gray;
+    padding: 0px 20px 10px;
+}
+
+.company-header > div:first-child {
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.motto-since {
+    display: flex;
+}
+
+.motto-since > div:first-child {
+    width: 77%;
+}
