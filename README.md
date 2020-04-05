@@ -12,8 +12,14 @@ The company: 'Jones, Murphy and Stark' wants a representation of their employees
  
 ## How to run?
  `npm start`
+ 
  You should see a development server start and a browser window pointing to location: http://localhost:3000/ start automatically. (or a different port if you have another app running on the same 3000 port.)
 
+## How to run the tests?
+   `npm test`
+   
+   The test cases perform Shallow testing using Jest and Enzyme to validate the DOM content of all components used.
+   
 ### Assumptions/Project Notes:
     Search: Supported based on firstname or lastname only.
     Dialog closure: Click outside should also close the dialog.
