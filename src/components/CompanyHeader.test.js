@@ -17,8 +17,8 @@ it('Test CompanyHeader dom content using shallow from enzyme', () => {
    expect(wrapper.find('div')).toHaveLength(5);
    expect(wrapper.find('div.company-header')).toHaveLength(1);
    expect(wrapper.find('div.company-header').childAt(0).equals(<div>Test company</div>));
-   expect(wrapper.find('div.motto-since').children()).toHaveLength(3);
+   expect(wrapper.find('div.motto-since').children()).toHaveLength(2);
    expect(wrapper.find('div.motto-since').childAt(0).equals(<div>Test motto</div>));
    expect(wrapper.find('div.motto-since').childAt(1).equals(<div>Since 9999</div>));
-   expect(wrapper.find('p')).toHaveLength(1);
+   expect(wrapper.find('p')).toHaveLength(0);
 })

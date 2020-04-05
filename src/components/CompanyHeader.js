@@ -9,7 +9,6 @@ export const CompanyHeader = ({companyInfo}) => {
             <div className="motto-since">
                 <div>{companyMotto}</div>
                 <div>Since {companyEst}</div>
-                <p>Copyrights protected</p>
             </div>
         </div>
     )
